@@ -1,0 +1,21 @@
+{
+  "name": "foo",
+  "version": "0.0.1",
+  "private": true,
+  "engines": {
+    "node": ">=4.2"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "3.5.0",
+    "dirty-chai": "1.2.2",
+    "eslint": "2.8.0",
+    "gulp": "3.9.1",
+    "gulp-jasmine": "2.3.0",
+    "gulp-load-plugins": "1.2.2",
+    "jasmine": "2.4.1",
+    "jasmine-reporters": "2.1.1",
+    "sinon": "1.17.3",
+    "sinon-chai": "2.8.0"
+  }
+}
